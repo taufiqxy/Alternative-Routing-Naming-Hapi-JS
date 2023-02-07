@@ -1,3 +1,2 @@
 # Alternative-Routing-Naming-Hapi-JS
-Simple Alternative Naming urls in Node JS.
-Change urls path without necessary changing all file using urls, just map the name and the path with javascript object.
+Simple alternative naming of urls in Node JS Change the path of the url without having to change all of the file urls; simply map the name and path with a Javascript object. 
